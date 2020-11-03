@@ -13,5 +13,10 @@ namespace WebApplication3.Controllers
         {
             return View();
         }
+        [HttpGet]
+        public void get()
+        {
+
+        }
     }
 }
